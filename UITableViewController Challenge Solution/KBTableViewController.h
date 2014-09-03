@@ -1,5 +1,5 @@
 //
-//  KBViewController.h
+//  KBTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Khalil Brown on 9/3/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface KBViewController : UIViewController
+@interface KBTableViewController : UITableViewController
 
 @end
